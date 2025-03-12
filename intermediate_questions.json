@@ -1,0 +1,487 @@
+[
+  {
+    "question": "What does the P/E ratio indicate?",
+    "options": ["A company's debt level", "A company's profitability", "The price you pay for one dollar of a company's earnings", "A company's assets"],
+    "correct_answer": "The price you pay for one dollar of a company's earnings"
+  },
+  {
+    "question": "What is the primary purpose of the balance sheet?",
+    "options": ["To show a company's revenue", "To show a company's cash flow", "To show a company's financial position at a specific point in time", "To show a company's expenses"],
+    "correct_answer": "To show a company's financial position at a specific point in time"
+  },
+  {
+    "question": "How does a high debt-to-equity ratio impact a company's financial risk?",
+    "options": ["Decreases risk", "Increases risk", "Has no impact", "Only impacts short-term risk"],
+    "correct_answer": "Increases risk"
+  },
+  {
+    "question": "Explain the significance of free cash flow in valuing a company.",
+    "options": ["It shows revenue growth", "It shows available cash for reinvestment or dividends", "It shows total assets", "It shows total liabilities"],
+    "correct_answer": "It shows available cash for reinvestment or dividends"
+  },
+  {
+    "question": "What are the limitations of using the P/E ratio as a sole valuation metric?",
+    "options": ["It doesn't consider debt", "It's always accurate", "It shows future growth", "It shows asset value"],
+    "correct_answer": "It doesn't consider debt"
+  },
+  {
+    "question": "Describe how changes in interest rates can affect a company's profitability.",
+    "options": ["Only affects tech companies", "Increases borrowing costs, potentially decreasing profits", "Only affects small companies", "Has no impact on profitability"],
+    "correct_answer": "Increases borrowing costs, potentially decreasing profits"
+  },
+  {
+    "question": "What is the difference between gross profit margin and net profit margin, and why does it matter?",
+    "options": ["Gross shows operating expenses, net shows sales; it doesn't matter", "Gross shows direct costs, net shows all costs; it shows profitability efficiency", "Gross shows debt, net shows equity; it shows solvency", "They're the same; it doesn't matter"],
+    "correct_answer": "Gross shows direct costs, net shows all costs; it shows profitability efficiency"
+  },
+  {
+    "question": "How can a company's competitive advantage (moat) affect its long-term profitability?",
+    "options": ["Decreases profitability", "Increases profitability by creating barriers to entry", "Has no effect on profitability", "Only affects short-term profits"],
+    "correct_answer": "Increases profitability by creating barriers to entry"
+  },
+  {
+    "question": "What is the importance of analyzing a company's management team and their track record?",
+    "options": ["It's not important", "It indicates their ability to execute strategy", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It indicates their ability to execute strategy"
+  },
+  {
+    "question": "Explain how a company's inventory turnover ratio can indicate its efficiency.",
+    "options": ["It shows debt levels", "It shows how quickly inventory is sold, indicating efficient operations", "It shows sales growth", "It shows asset value"],
+    "correct_answer": "It shows how quickly inventory is sold, indicating efficient operations"
+  },
+  {
+    "question": "How does understanding a company's industry trends contribute to investment decisions?",
+    "options": ["It's not important", "It helps assess future growth potential and risks", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It helps assess future growth potential and risks"
+  },
+  {
+    "question": "What are the implications of a company's declining revenue growth for its stock price?",
+    "options": ["Always increases stock price", "May lead to decreased investor confidence and stock price", "Has no effect on stock price", "Only affects short-term stock price"],
+    "correct_answer": "May lead to decreased investor confidence and stock price"
+  },
+  {
+    "question": "How does the concept of 'intrinsic value' differ from 'market price'?",
+    "options": ["They're the same", "Intrinsic value is the perceived true value, market price is what the market is willing to pay", "Market price is always higher", "Intrinsic value is always lower"],
+    "correct_answer": "Intrinsic value is the perceived true value, market price is what the market is willing to pay"
+  },
+  {
+    "question": "What are the key factors to consider when analyzing a company's cash flow statement?",
+    "options": ["Only revenue", "Operating, investing, and financing activities", "Only debt levels", "Only asset value"],
+    "correct_answer": "Operating, investing, and financing activities"
+  },
+  {
+    "question": "How can a company's return on equity (ROE) be used to assess its profitability?",
+    "options": ["It shows debt levels", "It shows how effectively a company generates profits from shareholders' equity", "It shows sales growth", "It shows asset value"],
+    "correct_answer": "It shows how effectively a company generates profits from shareholders' equity"
+  },
+  {
+    "question": "Explain the concept of 'economic moat' and give examples.",
+    "options": ["It's debt; no examples", "It's a sustainable competitive advantage, like brand loyalty or patents", "It's sales growth; no examples", "It's asset value; no examples"],
+    "correct_answer": "It's a sustainable competitive advantage, like brand loyalty or patents"
+  },
+  {
+    "question": "How does a company's capital expenditure (CapEx) impact its future growth?",
+    "options": ["Decreases growth", "Investments in CapEx can drive future growth", "Has no effect on growth", "Only affects short-term growth"],
+    "correct_answer": "Investments in CapEx can drive future growth"
+  },
+  {
+    "question": "What is the significance of analyzing a company's operating expenses?",
+    "options": ["It's not important", "It shows how efficiently a company manages its day-to-day costs", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It shows how efficiently a company manages its day-to-day costs"
+  },
+  {
+    "question": "How does understanding a company's customer base contribute to investment analysis?",
+    "options": ["It's not important", "It helps assess revenue stability and growth potential", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It helps assess revenue stability and growth potential"
+  },
+  {
+    "question": "Explain how a company's dividend payout ratio can affect its stock price.",
+    "options": ["It's not important", "A high ratio may signal financial stability, but limit reinvestment", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "A high ratio may signal financial stability, but limit reinvestment"
+  },
+  {
+    "question": "What are the risks associated with investing in companies with high growth expectations?",
+    "options": ["No risks", "High valuations and potential for disappointment if growth slows", "Only short term risks", "Only risks for small companies"],
+    "correct_answer": "High valuations and potential for disappointment if growth slows"
+  },
+  {
+    "question": "How does a company's research and development (R&D) spending impact its innovation and future growth?",
+    "options": ["Decreases growth", "Investments in R&D can drive innovation and future growth", "Has no effect on growth", "Only affects short-term growth"],
+    "correct_answer": "Investments in R&D can drive innovation and future growth"
+  },
+  {
+    "question": "What is the difference between enterprise value and market capitalization?",
+    "options": ["They're the same", "Enterprise value includes debt and cash, market cap is just equity value", "Market cap includes debt, enterprise value is just equity value", "Enterprise value is always lower"],
+    "correct_answer": "Enterprise value includes debt and cash, market cap is just equity value"
+  },
+  {
+    "question": "How does understanding a company's supply chain contribute to investment analysis?",
+    "options": ["It's not important", "It helps assess operational risks and efficiencies", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It helps assess operational risks and efficiencies"
+  },
+  {
+    "question": "Explain the concept of 'margin of safety' in value investing.",
+    "options": ["It's debt levels", "It's buying stocks at a discount to their intrinsic value", "It's sales growth", "It's asset value"],
+    "correct_answer": "It's buying stocks at a discount to their intrinsic value"
+  },
+  {
+    "question": "How can a company's goodwill impact its financial statements?",
+    "options": ["It's not important", "It can affect asset values and potential write-downs", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It can affect asset values and potential write-downs"
+  },
+  {
+    "question": "What are the implications of a company's earnings surprises for its stock price?",
+    "options": ["Always decreases stock price", "Can lead to significant price movements", "Has no effect on stock price", "Only affects short-term stock price"],
+    "correct_answer": "Can lead to significant price movements"
+  },
+  {
+    "question": "How does a company's working capital management affect its liquidity?",
+    "options": ["It's not important", "Efficient management improves liquidity", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "Efficient management improves liquidity"
+  },
+  {
+    "question": "Explain the significance of analyzing a company's off-balance-sheet items.",
+    "options": ["It's not important", "It reveals potential financial risks and obligations", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It reveals potential financial risks and obligations"
+  },
+  {
+    "question": "How can a company's brand reputation affect its customer loyalty and profitability?",
+    "options": ["Decreases profitability", "A strong brand increases loyalty and profitability", "Has no effect on profitability", "Only affects short-term profits"],
+    "correct_answer": "A strong brand increases loyalty and profitability"
+  },
+  {
+    "question": "What are the risks associated with investing in companies with high leverage?",
+    "options": ["No risks", "Increased financial risk due to high debt", "Only short term risks", "Only risks for small companies"],
+    "correct_answer": "Increased financial risk due to high debt"
+  },
+  {
+    "question": "How does understanding a company's regulatory environment contribute to investment analysis?",
+    "options": ["It's not important", "It helps assess potential risks and compliance costs", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It helps assess potential risks and compliance costs"
+  },
+  {
+    "question": "Explain the concept of 'sustainable competitive advantage'.",
+    "options": ["It's debt levels", "It's a long-term, durable competitive advantage", "It's sales growth", "It's asset value"],
+    "correct_answer": "It's a long-term, durable competitive advantage"
+  },
+  {
+    "question": "How does a company's share repurchase program affect its earnings per share?",
+    "options": ["Decreases EPS", "Increases EPS by reducing outstanding shares", "Has no effect on EPS", "Only affects short-term EPS"],
+    "correct_answer": "Increases EPS by reducing outstanding shares"
+  },
+  {
+    "question": "What is the importance of analyzing a company's footnotes in its financial statements?",
+    "options": ["It's not important", "It provides additional details and potential risks", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It provides additional details and potential risks"
+  },
+  {
+    "question": "How can a company's geographic diversification impact its risk profile?",
+    "options": ["Increases risk", "Reduces risk by spreading operations across regions", "Has no effect on risk", "Only affects short-term risk"],
+    "correct_answer": "Reduces risk by spreading operations across regions"
+  },
+  {
+    "question": "Explain the concept of 'value trap' and how to avoid it.",
+    "options": ["It's debt levels", "It's a stock that appears cheap but is fundamentally weak; avoid by thorough analysis", "It's sales growth", "It's asset value"],
+    "correct_answer": "It's a stock that appears cheap but is fundamentally weak; avoid by thorough analysis"
+  },
+  {
+    "question": "How does a company's customer acquisition cost (CAC) affect its profitability?",
+    "options": ["Decreases profitability", "High CAC can reduce profitability", "Has no effect on profitability", "Only affects short-term profits"],
+    "correct_answer": "High CAC can reduce profitability"
+  },
+  {
+    "question": "What are the implications of a company's management's compensation structure?",
+    "options": ["It's not important", "It can align or misalign management's interests with shareholders", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It can align or misalign management's interests with shareholders"
+  },
+  {
+    "question": "How does a company's environmental, social, and governance (ESG) factors impact its long-term value?",
+    "options": ["Decreases value", "Positive ESG can enhance long-term value", "Has no effect on value", "Only affects short-term value"],
+    "correct_answer": "Positive ESG can enhance long-term value"
+  },
+  {
+    "question": "Explain the concept of 'discounted cash flow' (DCF) analysis.",
+    "options": ["It's debt levels", "It's valuing a company based on its future cash flows", "It's sales growth", "It's asset value"],
+    "correct_answer": "It's valuing a company based on its future cash flows"
+  },
+  {
+    "question": "How does a company's accounts receivable turnover ratio indicate its efficiency?",
+    "options": ["It's not important", "It shows how quickly a company collects receivables, indicating efficiency", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It shows how quickly a company collects receivables, indicating efficiency"
+  },
+  {
+    "question": "What are the risks associated with investing in companies undergoing significant restructuring?",
+    "options": ["No risks", "Increased uncertainty and potential for failure", "Only short term risks", "Only risks for small companies"],
+    "correct_answer": "Increased uncertainty and potential for failure"
+  },
+  {
+    "question": "How does a company's pricing power affect its profitability?",
+    "options": ["Decreases profitability", "Strong pricing power increases profitability", "Has no effect on profitability", "Only affects short-term profits"],
+    "correct_answer": "Strong pricing power increases profitability"
+  },
+  {
+    "question": "Explain the significance of analyzing a company's backlog of orders.",
+    "options": ["It's not important", "It indicates future revenue potential", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It indicates future revenue potential"
+  },
+  {
+    "question": "How can a company's customer churn rate affect its recurring revenue?",
+    "options": ["Increases revenue", "High churn reduces recurring revenue", "Has no effect on revenue", "Only affects short-term revenue"],
+    "correct_answer": "High churn reduces recurring revenue"
+  },
+  {
+    "question": "What are the implications of a company's related-party transactions?",
+    "options": ["It's not important", "It raises concerns about potential conflicts of interest", "It only shows past performance", "It only affects employee morale"],
+    "correct_answer": "It raises concerns about potential conflicts of interest"
+  },
+  {
+    "question": "How does the 'Letter to Shareholders' in an annual report provide insight into the company's strategic priorities and management's perspective on the year's performance?",
+    "options": ["It's just a formality with no real information", "It outlines key achievements, challenges, and future plans", "It's solely focused on financial numbers", "It's always overly optimistic and unreliable"],
+    "correct_answer": "It outlines key achievements, challenges, and future plans"
+  },
+  {
+    "question": "What can you learn about a company's competitive landscape and market share by analyzing the 'Business Description' section of the annual report?",
+    "options": ["Nothing, it's just a general overview", "It describes the company's products, services, and market position", "It only talks about the company's internal operations", "It's always outdated and irrelevant"],
+    "correct_answer": "It describes the company's products, services, and market position"
+  },
+  {
+    "question": "How does the 'Risk Factors' section of an annual report help you understand potential challenges the company might face in the future?",
+    "options": ["It's just a list of generic warnings", "It outlines specific risks that could impact the company's performance", "It only talks about past risks", "It's always overly pessimistic and unreliable"],
+    "correct_answer": "It outlines specific risks that could impact the company's performance"
+  },
+  {
+    "question": "What is the purpose of the 'Management Discussion and Analysis' (MD&A) section in an annual report, and what kind of information can you find there?",
+    "options": ["It's just a summary of financial statements", "It provides management's explanation of the company's financial results and future outlook", "It only talks about past financial performance", "It's always biased and misleading"],
+    "correct_answer": "It provides management's explanation of the company's financial results and future outlook"
+  },
+  {
+    "question": "How do the footnotes to the financial statements in an annual report provide additional context and details about the company's financial performance?",
+    "options": ["They're just technical details no one needs to read", "They explain accounting policies, contingent liabilities, and other important information", "They only talk about past accounting practices", "They're always hidden and difficult to find"],
+    "correct_answer": "They explain accounting policies, contingent liabilities, and other important information"
+  },
+  {
+    "question": "What can you learn about a company's corporate governance practices by reviewing the disclosures in the annual report?",
+    "options": ["Corporate governance is irrelevant to investors", "You can find information about the board of directors, executive compensation, and ethical standards", "It only talks about past corporate governance issues", "It's always overly complicated and confusing"],
+    "correct_answer": "You can find information about the board of directors, executive compensation, and ethical standards"
+  },
+  {
+    "question": "How does the 'Auditor's Report' in an annual report provide assurance about the reliability of the company's financial statements?",
+    "options": ["It's just a rubber stamp with no real value", "It provides an independent opinion on whether the financial statements are fairly presented", "It only talks about past audits", "It's always biased and unreliable"],
+    "correct_answer": "It provides an independent opinion on whether the financial statements are fairly presented"
+  },
+  {
+    "question": "What can you learn about a company's financial health by analyzing the 'Consolidated Balance Sheet' in an annual report?",
+    "options": ["It's just a list of numbers with no meaning", "It shows the company's assets, liabilities, and equity at a specific point in time", "It only talks about past financial positions", "It's always outdated and irrelevant"],
+    "correct_answer": "It shows the company's assets, liabilities, and equity at a specific point in time"
+  },
+  {
+    "question": "How does the 'Consolidated Income Statement' in an annual report help you understand a company's profitability and revenue generation?",
+    "options": ["It's just a summary of expenses with no meaning", "It shows the company's revenue, expenses, and net income over a period of time", "It only talks about past revenue generation", "It's always misleading and unreliable"],
+    "correct_answer": "It shows the company's revenue, expenses, and net income over a period of time"
+  },
+  {
+    "question": "What can you learn about a company's cash flow management by analyzing the 'Consolidated Statement of Cash Flows' in an annual report?",
+    "options": ["It's just a list of numbers with no meaning", "It shows the company's cash inflows and outflows from operating, investing, and financing activities", "It only talks about past cash flow management", "It's always difficult to understand and misleading"],
+    "correct_answer": "It shows the company's cash inflows and outflows from operating, investing, and financing activities"
+  },
+  {
+    "question": "How does the section on ‘Significant Accounting Policies’ help an investor understand how the financial statements were prepared?",
+    "options": ["It’s just technical jargon.", "It details the accounting methods used, affecting how items are reported.", "It only discusses historical policies.", "It’s always intentionally vague."],
+    "correct_answer": "It details the accounting methods used, affecting how items are reported."
+  },
+  {
+    "question": "What insights can be gained from analyzing the ‘Segment Information’ in an annual report regarding the company’s diversified operations?",
+    "options": ["Segment information is always irrelevant.", "It shows the performance of different business segments, revealing which are most profitable.", "It only discusses past segment performance.", "Segment information is always misleading."],
+    "correct_answer": "It shows the performance of different business segments, revealing which are most profitable."
+  },
+  {
+    "question": "How does the ‘Schedule of Property, Plant, and Equipment’ help in understanding the company’s capital investments and asset base?",
+    "options": ["PP&E schedules are always irrelevant.", "It details the company’s fixed assets and their depreciation.", "It only discusses past asset purchases.", "PP&E schedules are always too complex."],
+    "correct_answer": "It details the company’s fixed assets and their depreciation."
+  },
+  {
+    "question": "What can an investor learn about a company’s debt obligations and financial leverage by examining the ‘Notes Payable’ and ‘Long-Term Debt’ sections?",
+    "options": ["Debt information is always irrelevant.", "These sections provide details on the company’s debt structure and obligations.", "It only discusses past debt obligations.", "Debt information is always hidden."],
+    "correct_answer": "These sections provide details on the company’s debt structure and obligations."
+  },
+  {
+    "question": "How does the ‘Contingent Liabilities’ section of an annual report inform an investor about potential future financial risks?",
+    "options": ["Contingent liabilities are always insignificant.", "It discloses potential future obligations that may impact the company’s financial health.", "It only discusses past legal issues.", "Contingent liabilities are always too vague."],
+    "correct_answer": "It discloses potential future obligations that may impact the company’s financial health."
+  },
+  {
+    "question": "If a company suddenly reports a much higher gross profit margin than its competitors, what should an investor investigate further?",
+    "options": ["Nothing, it's just good management", "How the company calculates its cost of goods sold (COGS)", "The company's marketing budget", "The CEO's salary"],
+    "correct_answer": "How the company calculates its cost of goods sold (COGS)"
+  },
+  {
+    "question": "What might it suggest if a company's sales increase significantly at the end of a reporting period, but its cash flow doesn't reflect this?",
+    "options": ["It's just efficient sales", "Potential manipulation of revenue recognition or 'channel stuffing'", "The company is donating a lot of its products", "The company is investing heavily in new technology"],
+    "correct_answer": "Potential manipulation of revenue recognition or 'channel stuffing'"
+  },
+  {
+    "question": "If a company consistently reports lower selling, general, and administrative (SG&A) expenses than its peers, what might this indicate?",
+    "options": ["It's just good cost control", "Potential underreporting of expenses or delayed recognition", "The company is using more efficient technology", "The company is paying its employees less"],
+    "correct_answer": "Potential underreporting of expenses or delayed recognition"
+  },
+  {
+    "question": "Why should an investor pay attention to a company's 'other income' or 'non-operating income' if it's a significant portion of their profits?",
+    "options": ["It's just extra money", "It may indicate reliance on unsustainable or non-core activities", "The company is diversifying its revenue streams", "The company is investing in real estate"],
+    "correct_answer": "It may indicate reliance on unsustainable or non-core activities"
+  },
+  {
+    "question": "What could be a red flag if a company frequently changes its accounting methods or estimates related to revenue or expenses?",
+    "options": ["It's just adapting to new regulations", "Potential manipulation of earnings to meet targets", "The company is trying to make its statements clearer", "The company is hiring new accountants"],
+    "correct_answer": "Potential manipulation of earnings to meet targets"
+  },
+  {
+    "question": "If a company reports a large increase in accounts receivable but no corresponding increase in sales, what might this suggest?",
+    "options": ["It's just a delay in customer payments", "Potential fictitious sales or overstated revenue", "The company is offering extended payment terms", "The company is expanding its customer base"],
+    "correct_answer": "Potential fictitious sales or overstated revenue"
+  },
+  {
+    "question": "What should an investor look for when analyzing a company's 'sales returns and allowances' as a percentage of revenue?",
+    "options": ["Nothing, it's a normal part of business", "Unusually low or decreasing returns can indicate revenue overstatement", "Sales returns are always consistent", "Sales returns are only relevant for retail companies"],
+    "correct_answer": "Unusually low or decreasing returns can indicate revenue overstatement"
+  },
+  {
+    "question": "If a company reports a sudden and significant decrease in its 'depreciation expense,' what might this suggest?",
+    "options": ["It's just efficient asset management", "Potential manipulation of depreciation policies to inflate earnings", "The company is selling off its old assets", "The company is investing in newer, longer lasting assets"],
+    "correct_answer": "Potential manipulation of depreciation policies to inflate earnings"
+  },
+  {
+    "question": "What might it suggest if a company reports a large amount of 'related-party transactions' that aren't clearly explained?",
+    "options": ["It's just normal business dealings", "Potential conflicts of interest or manipulation of revenue/expenses", "The company is expanding its partnerships", "The company is trying to simplify its operations"],
+    "correct_answer": "Potential conflicts of interest or manipulation of revenue/expenses"
+  },
+  {
+    "question": "Why should an investor be cautious if a company's reported earnings are significantly higher than its operating cash flow?",
+    "options": ["It's just efficient accounting practices", "Potential manipulation of earnings or poor earnings quality", "The company is investing heavily in growth", "The company is paying down its debt"],
+    "correct_answer": "Potential manipulation of earnings or poor earnings quality"
+  },
+    {
+    "question": "How might a sudden increase in a company’s ‘inventory turnover’ ratio suggest potential revenue manipulation?",
+    "options": ["Inventory turnover is always stable.", "It could indicate fictitious sales or premature revenue recognition.", "Inventory turnover is irrelevant to fraud.", "All changes are easily explained."],
+    "correct_answer": "It could indicate fictitious sales or premature revenue recognition."
+  },
+  {
+    "question": "What red flags should an investor look for when analyzing a company’s ‘bad debt expense’ as a percentage of accounts receivable?",
+    "options": ["Bad debt expense is always consistent.", "Unusually low or decreasing bad debt expense could indicate revenue overstatement.", "Bad debt expense is irrelevant to fraud.", "All bad debt expense is easily explained."],
+    "correct_answer": "Unusually low or decreasing bad debt expense could indicate revenue overstatement."
+  },
+  {
+    "question": "How might a company manipulate its ‘cost of goods sold’ (COGS) to inflate reported earnings?",
+    "options": ["COGS is always accurately reported.", "By understating inventory write-downs or capitalizing expenses.", "COGS is irrelevant to earnings manipulation.", "All COGS adjustments are easily explained."],
+    "correct_answer": "By understating inventory write-downs or capitalizing expenses."
+  },
+  {
+    "question": "What should an investor investigate if a company’s ‘deferred revenue’ balance suddenly decreases significantly?",
+    "options": ["Deferred revenue is always stable.", "It could indicate aggressive revenue recognition or premature recognition.", "Deferred revenue is irrelevant to fraud.", "All deferred revenue changes are easily explained."],
+    "correct_answer": "It could indicate aggressive revenue recognition or premature recognition."
+  },
+  {
+    "question": "How might a company use ‘off-balance-sheet’ transactions to manipulate its reported expenses or revenues?",
+    "options": ["Off-balance-sheet transactions are always transparent.", "By hiding liabilities or shifting expenses off the income statement.", "Off-balance-sheet transactions are irrelevant to fraud.", "All off-balance-sheet transactions are easily explained."],
+    "correct_answer": "By hiding liabilities or shifting expenses off the income statement."
+  },
+  {
+    "question": "What red flags should an investor look for when analyzing a company’s ‘capitalization of expenses’ or ‘intangible assets’?",
+    "options": ["Capitalization is always accurate.", "Potential manipulation of earnings by shifting expenses to future periods.", "Capitalization is irrelevant to fraud.", "All capitalization decisions are easily explained."],
+    "correct_answer": "Potential manipulation of earnings by shifting expenses to future periods."
+  },
+  {
+    "question": "How might a company manipulate its ‘reserves’ or ‘provisions’ to inflate reported earnings?",
+    "options": ["Reserves and provisions are always accurately reported.", "By releasing reserves or provisions to boost current earnings.", "Reserves and provisions are irrelevant to earnings manipulation.", "All reserve adjustments are easily explained."],
+    "correct_answer": "By releasing reserves or provisions to boost current earnings."
+  },
+  {
+    "question": "What red flags should an investor look for when analyzing a company’s ‘restructuring charges’ or ‘impairment charges’?",
+    "options": ["Restructuring and impairment charges are always transparent.", "Potential manipulation of earnings by inflating charges or misallocating expenses.", "Restructuring and impairment charges are irrelevant to fraud.", "All charges are easily explained."],
+    "correct_answer": "Potential manipulation of earnings by inflating charges or misallocating expenses."
+  },
+  {
+    "question": "How might a company manipulate its ‘tax provisions’ or ‘tax credits’ to reduce its tax liabilities?",
+    "options": ["Tax provisions and credits are always accurately reported.", "By overstating provisions or understating credits to reduce taxes.", "Tax provisions and credits are irrelevant to tax manipulation.", "All tax adjustments are easily explained."],
+    "correct_answer": "By overstating provisions or understating credits to reduce taxes."
+  },
+  {
+    "question": "What red flags should an investor look for when analyzing a company’s ‘earnings management’ or ‘non-GAAP measures’?",
+    "options": ["Earnings management is always transparent.", "Potential manipulation of earnings through non-standard metrics or aggressive accounting.", "Earnings management is irrelevant to fraud.", "All adjustments are easily explained."],
+    "correct_answer": "Potential manipulation of earnings through non-standard metrics or aggressive accounting."
+  },
+  {
+    "question": "What does a significant increase in a company's debt-to-equity ratio suggest about its financial risk?",
+    "options": ["Lower financial risk", "Higher financial risk", "No change in financial risk", "Improved profitability"],
+    "correct_answer": "Higher financial risk"
+  },
+  {
+    "question": "How does a company's current ratio help investors assess its short-term liquidity?",
+    "options": ["By showing long-term profitability", "By indicating the company's ability to pay short-term obligations", "By measuring the company's debt levels", "By assessing the company's market share"],
+    "correct_answer": "By indicating the company's ability to pay short-term obligations"
+  },
+  {
+    "question": "What does a high price-to-earnings (P/E) ratio typically indicate about investor expectations?",
+    "options": ["Low growth expectations", "High growth expectations", "Stable growth expectations", "Declining profitability"],
+    "correct_answer": "High growth expectations"
+  },
+  {
+    "question": "How does a company's return on equity (ROE) measure its profitability?",
+    "options": ["By showing the company's assets", "By showing how effectively the company generates profits from shareholders' investments", "By measuring the company's debt", "By measuring the company's cash flow"],
+    "correct_answer": "By showing how effectively the company generates profits from shareholders' investments"
+  },
+  {
+    "question": "What information does the gross profit margin provide about a company's operational efficiency?",
+    "options": ["The company's overall profitability", "The company's ability to control its cost of goods sold", "The company's debt levels", "The company's market capitalization"],
+    "correct_answer": "The company's ability to control its cost of goods sold"
+  },
+  {
+    "question": "Why is it important to compare a company's inventory turnover ratio to its industry peers?",
+    "options": ["To assess the company's marketing budget", "To understand how efficiently the company manages its inventory relative to competitors", "To measure the company's debt", "To assess the company's employee satisfaction"],
+    "correct_answer": "To understand how efficiently the company manages its inventory relative to competitors"
+  },
+  {
+    "question": "What does a low dividend payout ratio indicate about a company's earnings?",
+    "options": ["The company is paying out a large portion of its earnings", "The company is reinvesting a large portion of its earnings", "The company is losing money", "The company is issuing more debt"],
+    "correct_answer": "The company is reinvesting a large portion of its earnings"
+  },
+  {
+    "question": "How does the quick ratio differ from the current ratio in assessing a company's liquidity?",
+    "options": ["The quick ratio includes inventory", "The quick ratio excludes inventory, providing a more conservative measure of liquidity", "The quick ratio measures long term debt.", "The quick ratio is used to measure profitability."],
+    "correct_answer": "The quick ratio excludes inventory, providing a more conservative measure of liquidity"
+  },
+  {
+    "question": "What does a declining operating profit margin suggest about a company's core business operations?",
+    "options": ["Improved efficiency", "Decreasing efficiency or increasing operating costs", "Increased market share", "Improved cash flow"],
+    "correct_answer": "Decreasing efficiency or increasing operating costs"
+  },
+  {
+    "question": "Why is it important to analyze the trend of a company's cash flow from operations to net income ratio over time?",
+    "options": ["To assess the company's marketing strategy", "To evaluate the quality of earnings and the consistency of cash generation", "To measure the company's debt", "To evaluate the company's research and development"],
+    "correct_answer": "To evaluate the quality of earnings and the consistency of cash generation"
+  },
+  {
+    "question": "How does the ‘days sales outstanding’ (DSO) ratio help in assessing a company’s credit and collection policies?",
+    "options": ["DSO is irrelevant to credit policies.", "It indicates how quickly a company collects receivables, showing the effectiveness of its credit policy.", "DSO only measures inventory turnover.", "DSO measures profitability."],
+    "correct_answer": "It indicates how quickly a company collects receivables, showing the effectiveness of its credit policy."
+  },
+  {
+    "question": "What insights can be gained from analyzing the ‘interest coverage ratio’ regarding a company’s ability to service its debt?",
+    "options": ["Interest coverage ratio is irrelevant to debt service.", "It measures a company’s ability to pay its interest expenses with its operating income.", "Interest coverage ratio measures profitability.", "Interest coverage ratio measures asset turnover."],
+    "correct_answer": "It measures a company’s ability to pay its interest expenses with its operating income."
+  },
+  {
+    "question": "How does the ‘asset turnover ratio’ indicate a company’s efficiency in using its assets to generate sales?",
+    "options": ["Asset turnover ratio is irrelevant to efficiency.", "It shows how effectively a company uses its assets to generate revenue.", "Asset turnover ratio measures liquidity.", "Asset turnover ratio measures debt levels."],
+    "correct_answer": "It shows how effectively a company uses its assets to generate revenue."
+  },
+  {
+    "question": "What does a high ‘dividend yield’ indicate to an investor, and what are its limitations?",
+    "options": ["Dividend yield is irrelevant to investors.", "It indicates the return on investment from dividends, but can be high due to a low stock price.", "Dividend yield measures profitability.", "Dividend yield measures debt levels."],
+    "correct_answer": "It indicates the return on investment from dividends, but can be high due to a low stock price."
+  },
+  {
+    "question": "How does the ‘price-to-book (P/B) ratio’ help in assessing the market’s valuation of a company relative to its book value?",
+    "options": ["P/B ratio is irrelevant to valuation.", "It compares the market value to the book value, indicating whether a stock is over or undervalued.", "P/B ratio measures profitability.", "P/B ratio measures cash flow."],
+    "correct_answer": "It compares the market value to the book value, indicating whether a stock is over or undervalued."
+  }
+]

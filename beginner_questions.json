@@ -1,0 +1,662 @@
+[
+  {
+    "question": "What is a stock?",
+    "options": ["A type of bond", "A share of ownership in a company", "A loan to a company", "A government debt"],
+    "correct_answer": "A share of ownership in a company"
+  },
+  {
+    "question": "What does EPS stand for?",
+    "options": ["Earnings Per Share", "Expenses Per Sale", "Equity Per Stock", "Estimated Profit Standard"],
+    "correct_answer": "Earnings Per Share"
+  },
+  {
+    "question": "What is a dividend?",
+    "options": ["A loan to a company", "A share of company profits paid to shareholders", "A type of bond", "A government debt"],
+    "correct_answer": "A share of company profits paid to shareholders"
+  },
+  {
+    "question": "What is revenue?",
+    "options": ["Profit after expenses", "Total income from sales", "Company's debt", "Value of company assets"],
+    "correct_answer": "Total income from sales"
+  },
+  {
+    "question": "What is a balance sheet?",
+    "options": ["A report of income and expenses", "A snapshot of a company's assets, liabilities, and equity", "A summary of sales", "A prediction of future profits"],
+    "correct_answer": "A snapshot of a company's assets, liabilities, and equity"
+  },
+  {
+    "question": "What is a company's debt?",
+    "options": ["Money owed by the company", "Money owned by the company", "Company's profits", "Value of company's stock"],
+    "correct_answer": "Money owed by the company"
+  },
+  {
+    "question": "What is a company's asset?",
+    "options": ["Money owed to the company", "Something of value owned by the company", "Company's expenses", "Company's losses"],
+    "correct_answer": "Something of value owned by the company"
+  },
+  {
+    "question": "What is a company's liability?",
+    "options": ["Something the company owns", "A company's profits", "A company's debt or obligation", "A company's sales"],
+    "correct_answer": "A company's debt or obligation"
+  },
+  {
+    "question": "What is a market capitalization?",
+    "options": ["Company's debt", "Total value of a company's outstanding shares", "Company's expenses", "Company's assets"],
+    "correct_answer": "Total value of a company's outstanding shares"
+  },
+  {
+    "question": "What does 'bull market' mean?",
+    "options": ["A declining market", "A rising market", "A stable market", "A market with no trading"],
+    "correct_answer": "A rising market"
+  },
+  {
+    "question": "What does 'bear market' mean?",
+    "options": ["A rising market", "A declining market", "A stable market", "A market with high volatility"],
+    "correct_answer": "A declining market"
+  },
+  {
+    "question": "What is inflation?",
+    "options": ["Decrease in prices", "Increase in the general level of prices", "Stable prices", "Prices of only stocks"],
+    "correct_answer": "Increase in the general level of prices"
+  },
+  {
+    "question": "What is a publicly traded company?",
+    "options": ["A company owned by the government", "A company whose shares are traded on a stock exchange", "A private company", "A company that only sells bonds"],
+    "correct_answer": "A company whose shares are traded on a stock exchange"
+  },
+  {
+    "question": "What is a stock exchange?",
+    "options": ["A place where bonds are traded", "A marketplace where stocks are bought and sold", "A bank", "A government building"],
+    "correct_answer": "A marketplace where stocks are bought and sold"
+  },
+  {
+    "question": "What is a portfolio?",
+    "options": ["A single stock", "A collection of investments", "A company's debt", "A company's expenses"],
+    "correct_answer": "A collection of investments"
+  },
+  {
+    "question": "What is a mutual fund?",
+    "options": ["A single stock", "A professionally managed investment fund", "A company's debt", "A company's expenses"],
+    "correct_answer": "A professionally managed investment fund"
+  },
+  {
+    "question": "What is a bond?",
+    "options": ["A share of ownership", "A loan to a company or government", "A type of stock", "A dividend payment"],
+    "correct_answer": "A loan to a company or government"
+  },
+  {
+    "question": "What is interest rate?",
+    "options": ["Company's profit", "The cost of borrowing money", "Company's sales", "Company's expenses"],
+    "correct_answer": "The cost of borrowing money"
+  },
+  {
+    "question": "What is a company's profit?",
+    "options": ["Total income", "Revenue minus expenses", "Company's debt", "Company's assets"],
+    "correct_answer": "Revenue minus expenses"
+  },
+  {
+    "question": "What is a company's expense?",
+    "options": ["Money coming in", "Money going out", "Company's stock value", "Company's assets"],
+    "correct_answer": "Money going out"
+  },
+  {
+    "question": "What is a company's income statement?",
+    "options": ["A report of assets and liabilities", "A report of revenue and expenses", "A list of shareholders", "A summary of stock trades"],
+    "correct_answer": "A report of revenue and expenses"
+  },
+  {
+    "question": "What does ROI stand for?",
+    "options": ["Return On Investment", "Rate Of Interest", "Revenue Over Income", "Risk Of Inflation"],
+    "correct_answer": "Return On Investment"
+  },
+  {
+    "question": "What is diversification?",
+    "options": ["Investing in a single stock", "Spreading investments across different assets", "Selling all investments", "Borrowing money to invest"],
+    "correct_answer": "Spreading investments across different assets"
+  },
+    {
+    "question": "What is a stock ticker?",
+    "options": ["A stock price", "A symbol used to identify a stock", "A company's logo", "A stock exchange name"],
+    "correct_answer": "A symbol used to identify a stock"
+  },
+  {
+    "question": "What is a stockbroker?",
+    "options": ["A company CEO", "A person who buys and sells stocks on behalf of clients", "A government official", "A company accountant"],
+    "correct_answer": "A person who buys and sells stocks on behalf of clients"
+  },
+  {
+    "question": "What is a stock split?",
+    "options": ["A company buying back shares", "A company increasing the number of outstanding shares", "A company selling assets", "A company going bankrupt"],
+    "correct_answer": "A company increasing the number of outstanding shares"
+  },
+  {
+    "question": "What is a stock buyback?",
+    "options": ["A company selling shares", "A company repurchasing its own shares", "A company merging with another", "A company issuing dividends"],
+    "correct_answer": "A company repurchasing its own shares"
+  },
+  {
+    "question": "What is a sector?",
+    "options": ["A single company", "A group of companies with similar business activities", "A stock exchange", "A government agency"],
+    "correct_answer": "A group of companies with similar business activities"
+  },
+  {
+    "question": "What is a stock's price-to-earnings ratio (P/E)?",
+    "options": ["Company's debt", "Stock price divided by earnings per share", "Company's revenue", "Company's expenses"],
+    "correct_answer": "Stock price divided by earnings per share"
+  },
+  {
+    "question": "What is a stock's volatility?",
+    "options": ["Company's profit", "The degree of variation of a stock's price", "Company's sales", "Company's expenses"],
+    "correct_answer": "The degree of variation of a stock's price"
+  },
+  {
+    "question": "What is a company's fiscal year?",
+    "options": ["Calendar year", "A 12-month period used for financial reporting", "Company's stock trading year", "Company's product launch year"],
+    "correct_answer": "A 12-month period used for financial reporting"
+  },
+  {
+    "question": "What is a 'blue-chip' stock?",
+    "options": ["A risky startup stock", "Stock of a large, well-established company", "A penny stock", "A bond"],
+    "correct_answer": "Stock of a large, well-established company"
+  },
+  {
+    "question": "What is a 'penny stock'?",
+    "options": ["Stock of a large company", "Low-priced, highly speculative stock", "A dividend stock", "A bond"],
+    "correct_answer": "Low-priced, highly speculative stock"
+  },
+  {
+    "question": "What is a 'growth stock'?",
+    "options": ["Stock of a company with slow growth", "Stock of a company expected to grow faster than average", "A bond", "A commodity"],
+    "correct_answer": "Stock of a company expected to grow faster than average"
+  },
+  {
+    "question": "What is a 'value stock'?",
+    "options": ["Overvalued stock", "Stock believed to be trading below its intrinsic value", "A growth stock", "A cryptocurrency"],
+    "correct_answer": "Stock believed to be trading below its intrinsic value"
+  },
+  {
+    "question": "What is a 'cyclical stock'?",
+    "options": ["Stock unaffected by economic cycles", "Stock that performs well during economic expansion and poorly during recessions", "A bond", "A stable dividend stock"],
+    "correct_answer": "Stock that performs well during economic expansion and poorly during recessions"
+  },
+  {
+    "question": "What is a 'defensive stock'?",
+    "options": ["Stock that declines sharply in recessions", "Stock that provides consistent dividends and stable earnings regardless of economic conditions", "A growth stock", "A highly volatile stock"],
+    "correct_answer": "Stock that provides consistent dividends and stable earnings regardless of economic conditions"
+  },
+  {
+    "question": "What is 'liquidity' in the stock market?",
+    "options": ["Company's debt", "Ease of buying or selling an asset", "Company's profit", "Stock volatility"],
+    "correct_answer": "Ease of buying or selling an asset"
+  },
+  {
+    "question": "What is a 'market order'?",
+    "options": ["An order to buy or sell at a specific price", "An order to buy or sell at the current market price", "An order to hold a stock", "An order to short a stock"],
+    "correct_answer": "An order to buy or sell at the current market price"
+  },
+  {
+    "question": "What is a 'limit order'?",
+    "options": ["An order to buy or sell at the current market price", "An order to buy or sell at a specific price or better", "An order to hold a stock", "An order to sell all stocks"],
+    "correct_answer": "An order to buy or sell at a specific price or better"
+  },
+  {
+    "question": "What is 'day trading'?",
+    "options": ["Investing for the long term", "Buying and selling stocks within the same trading day", "Investing in bonds", "Holding stocks for years"],
+    "correct_answer": "Buying and selling stocks within the same trading day"
+  },
+  {
+    "question": "What is 'long-term investing'?",
+    "options": ["Buying and selling stocks within the same day", "Holding investments for an extended period", "Short selling", "Investing in commodities"],
+    "correct_answer": "Holding investments for an extended period"
+  },
+  {
+    "question": "What is 'short selling'?",
+    "options": ["Buying stocks at a low price", "Borrowing shares and selling them, hoping to buy them back at a lower price", "Buying bonds", "Investing in mutual funds"],
+    "correct_answer": "Borrowing shares and selling them, hoping to buy them back at a lower price"
+  },
+    {
+    "question": "What is 'insider trading'?",
+    "options": ["Trading stocks based on public information", "Trading stocks based on non-public, material information", "Trading bonds", "Trading mutual funds"],
+    "correct_answer": "Trading stocks based on non-public, material information"
+  },
+  {
+    "question": "What is 'fundamental analysis'?",
+    "options": ["Analyzing stock charts", "Evaluating a company's financial health", "Predicting future stock prices based on past prices", "Focusing on short term trading"],
+    "correct_answer": "Evaluating a company's financial health"
+  },
+  {
+    "question": "What is 'technical analysis'?",
+    "options": ["Evaluating a company's financial statements", "Analyzing stock price and volume charts", "Focusing on future company earnings", "Analyzing interest rates"],
+    "correct_answer": "Analyzing stock price and volume charts"
+  },
+  {
+    "question": "What is 'earnings call'?",
+    "options": ["A meeting of shareholders", "A conference call where company executives discuss financial results", "A sale of stocks", "A bond offering"],
+    "correct_answer": "A conference call where company executives discuss financial results"
+  },
+  {
+    "question": "What is a 'proxy vote'?",
+    "options": ["A vote by a company's CEO", "A vote cast by a shareholder who cannot attend a meeting", "A vote on a bond offering", "A vote to liquidate a company"],
+    "correct_answer": "A vote cast by a shareholder who cannot attend a meeting"
+  },
+  {
+    "question": "What is a 'stock index'?",
+    "options": ["A single stock price", "A measurement of a portion of the stock market", "A bond price", "A commodity price"],
+    "correct_answer": "A measurement of a portion of the stock market"
+  },
+    {
+    "question": "What is a 'stock option'?",
+    "options": ["An obligation to buy stock", "A contract that gives the buyer the right, but not the obligation, to buy or sell a stock at a specific price within a specific time period", "A type of bond", "A guaranteed profit stock"],
+    "correct_answer": "A contract that gives the buyer the right, but not the obligation, to buy or sell a stock at a specific price within a specific time period"
+  },
+  {
+    "question": "What is a 'stock warrant'?",
+    "options": ["A type of bond", "A long-term option to buy a specific number of shares of common stock at a specified price", "A short term loan", "A promise to pay a dividend"],
+    "correct_answer": "A long-term option to buy a specific number of shares of common stock at a specified price"
+  },
+  {
+    "question": "If you want to find companies that are consistently making a profit, which financial statement would you look at first?",
+    "options": ["Balance Sheet", "Income Statement (Profit and Loss Statement)", "Statement of Cash Flows", "Shareholder Letter"],
+    "correct_answer": "Income Statement (Profit and Loss Statement)"
+  },
+  {
+    "question": "Imagine you're looking for companies that don't have a lot of debt. Which part of the financial reports would tell you about a company's debt?",
+    "options": ["Income Statement", "Statement of Cash Flows", "Balance Sheet", "Management Discussion and Analysis (MD&A)"],
+    "correct_answer": "Balance Sheet"
+  },
+  {
+    "question": "If you want to find companies that are growing their sales quickly, what would you look for in their financial reports?",
+    "options": ["Increasing revenue in the Income Statement", "High cash balances in the Balance Sheet", "Large depreciation expenses", "Large amounts of inventory"],
+    "correct_answer": "Increasing revenue in the Income Statement"
+  },
+  {
+    "question": "Let's say you want to find companies that are good at turning sales into cash. Which financial report would help you see this?",
+    "options": ["Balance Sheet", "Income Statement", "Statement of Cash Flows", "Auditor's Report"],
+    "correct_answer": "Statement of Cash Flows"
+  },
+  {
+    "question": "If you want to find companies that give some of their profits back to shareholders as dividends, what should you look for?",
+    "options": ["The company's marketing budget", "The dividend payout ratio", "The CEO's biography", "The company's office locations"],
+    "correct_answer": "The dividend payout ratio"
+  },
+  {
+    "question": "Imagine you want to invest in companies that are considered 'value' stocks, meaning they might be undervalued. What ratio could help you find these companies?",
+    "options": ["Price-to-Earnings (P/E) ratio", "Employee satisfaction rating", "Number of social media followers", "The company's delivery speed"],
+    "correct_answer": "Price-to-Earnings (P/E) ratio"
+  },
+  {
+    "question": "If you are looking for companies that have a lot of cash on hand, where should you look?",
+    "options": ["Income Statement", "Balance Sheet", "Statement of Cash Flows", "Shareholder Letter"],
+    "correct_answer": "Balance Sheet"
+  },
+  {
+    "question": "If a company’s ‘current ratio’ is very low, what might this mean for the company?",
+    "options": ["The company is very profitable", "The company might struggle to pay its short-term bills", "The company has a lot of long-term debt", "The company is expanding rapidly"],
+    "correct_answer": "The company might struggle to pay its short-term bills"
+  },
+  {
+    "question": "If you want to find companies that are efficient at using their assets to generate sales, which ratio would you look at?",
+    "options": ["Debt-to-Equity ratio", "Asset turnover ratio", "Gross profit margin", "Dividend yield"],
+    "correct_answer": "Asset turnover ratio"
+  },
+  {
+    "question": "When screening for companies, why is it important to look at the trend of key financial numbers over several years, instead of just one year?",
+    "options": ["To confuse investors", "To see if the company’s performance is consistent and reliable", "To make the reports longer", "To hide important information"],
+    "correct_answer": "To see if the company’s performance is consistent and reliable"
+  },
+  {
+    "question": "If a company has a very high ‘inventory turnover’ compared to its competitors, what could this mean?",
+    "options": ["The company is storing too much inventory.", "The company is selling its inventory quickly and efficiently.", "The company is not selling enough products.", "The company is giving away free products."],
+    "correct_answer": "The company is selling its inventory quickly and efficiently."
+  },
+  {
+    "question": "When screening for companies, why is it important to look at the ‘notes to financial statements’ in an annual report?",
+    "options": ["They are just for accountants.", "They provide important details about accounting policies and potential risks.", "They are only for legal purposes.", "They are just a list of numbers."],
+    "correct_answer": "They provide important details about accounting policies and potential risks."
+  },
+  {
+    "question": "If you want to find companies that are investing in their future growth, what expense would you look for?",
+    "options": ["Marketing expenses", "Research and development (R&D) expenses", "Office supply expenses", "Travel expenses"],
+    "correct_answer": "Research and development (R&D) expenses"
+  },
+  {
+    "question": "When screening for companies, what does a ‘low debt-to-equity ratio’ generally indicate?",
+    "options": ["The company has a lot of debt.", "The company has more equity than debt, indicating lower financial risk.", "The company is not profitable.", "The company is selling its assets."],
+    "correct_answer": "The company has more equity than debt, indicating lower financial risk."
+  },
+  {
+    "question": "If you want to find companies that are paying out a large portion of their profits as dividends, what ratio would you look at?",
+    "options": ["Price-to-Earnings (P/E) ratio", "Dividend payout ratio", "Debt-to-Equity ratio", "Current ratio"],
+    "correct_answer": "Dividend payout ratio"
+  },
+  {
+    "question": "Imagine you're reading a company's annual report. Where would you find a friendly letter from the CEO talking about the year's highlights?",
+    "options": ["The Balance Sheet", "The Letter to Shareholders", "The Statement of Cash Flows", "The Auditor's Report"],
+    "correct_answer": "The Letter to Shareholders"
+  },
+  {
+    "question": "If you want to know what the company does and what products or services they sell, where would you look in the annual report?",
+    "options": ["The Notes to Financial Statements", "The Business Description", "The Income Statement", "The Auditor's Report"],
+    "correct_answer": "The Business Description"
+  },
+  {
+    "question": "If a company lists 'risks' in its annual report, what are they trying to tell you?",
+    "options": ["That everything is perfect", "Potential problems that could affect the company", "That they are always profitable", "That they have no competition"],
+    "correct_answer": "Potential problems that could affect the company"
+  },
+  {
+    "question": "Where in the annual report would you find a section where the company's management explains their financial results and future plans?",
+    "options": ["The Balance Sheet", "The Management Discussion and Analysis (MD&A)", "The Statement of Cash Flows", "The Auditor's Report"],
+    "correct_answer": "The Management Discussion and Analysis (MD&A)"
+  },
+  {
+    "question": "If you want to understand the details behind the numbers in the financial statements, where would you look in the annual report?",
+    "options": ["The Letter to Shareholders", "The Notes to Financial Statements", "The Income Statement", "The Business Description"],
+    "correct_answer": "The Notes to Financial Statements"
+  },
+  {
+    "question": "Who checks the company's financial statements to make sure they are correct, and where do you find their opinion in the annual report?",
+    "options": ["The CEO in the Letter to Shareholders", "The Auditor in the Auditor's Report", "The Marketing Department in the Business Description", "The Shareholders in the Balance Sheet"],
+    "correct_answer": "The Auditor in the Auditor's Report"
+  },
+  {
+    "question": "If you want to see a snapshot of what the company owns and owes at a specific point in time, which part of the annual report would you read?",
+    "options": ["The Income Statement", "The Balance Sheet", "The Statement of Cash Flows", "The Management Discussion and Analysis (MD&A)"],
+    "correct_answer": "The Balance Sheet"
+  },
+  {
+    "question": "Imagine you want to see how much money the company made or lost over a year. Which financial statement would you look at?",
+    "options": ["The Balance Sheet", "The Statement of Cash Flows", "The Income Statement", "The Auditor's Report"],
+    "correct_answer": "The Income Statement"
+  },
+  {
+    "question": "If you want to understand how the company's cash moved in and out during the year, which financial statement would you check?",
+    "options": ["The Income Statement", "The Balance Sheet", "The Statement of Cash Flows", "The Notes to Financial Statements"],
+    "correct_answer": "The Statement of Cash Flows"
+  },
+  {
+    "question": "Why is it useful to read the 'Significant Accounting Policies' section in an annual report?",
+    "options": ["It tells you about the company's marketing strategy", "It explains how the company prepared its financial statements", "It lists the company's competitors", "It shows the company's employee vacation policy"],
+    "correct_answer": "It explains how the company prepared its financial statements"
+  },
+  {
+    "question": "If you want to know how well different parts of a company's business are doing, where would you look?",
+    "options": ["The Letter to Shareholders", "The Segment Information", "The Balance Sheet", "The Auditor’s Report"],
+    "correct_answer": "The Segment Information"
+  },
+  {
+    "question": "Where in the annual report can you find details about the company's buildings, machines, and equipment?",
+    "options": ["The Income Statement", "The Schedule of Property, Plant, and Equipment", "The Statement of Cash Flows", "The Notes to Financial Statements"],
+    "correct_answer": "The Schedule of Property, Plant, and Equipment"
+  },
+  {
+    "question": "If you want to find out how much debt a company has, which section of the annual report would be most helpful?",
+    "options": ["The Letter to Shareholders", "The Notes Payable and Long-Term Debt sections", "The Statement of Cash Flows", "The Auditor’s Report"],
+    "correct_answer": "The Notes Payable and Long-Term Debt sections"
+  },
+  {
+    "question": "What does the ‘Contingent Liabilities’ section of an annual report tell you?",
+    "options": ["The company's marketing budget", "Potential future financial risks", "The company's employee handbook", "The company’s daily sales numbers"],
+    "correct_answer": "Potential future financial risks"
+  },
+  {
+    "question": "If a company changes its ‘accounting policies’ from one year to the next, why is this important to know?",
+    "options": ["It shows the company is disorganized", "It can make it harder to compare the company’s financial results over time", "It means the company is hiring new accountants", "It means the company is changing its logo"],
+    "correct_answer": "It can make it harder to compare the company’s financial results over time"
+  },
+  {
+    "question": "Imagine you're baking cookies to sell. Where on your 'cookie business report' would you find out how much money you made from selling the cookies?",
+    "options": ["The ingredient list", "The revenue section", "The oven temperature chart", "The customer feedback section"],
+    "correct_answer": "The revenue section"
+  },
+  {
+    "question": "If you want to know how much money a company spent on the ingredients to make its products, where would you look on the P&L statement?",
+    "options": ["The net income section", "The cost of goods sold (COGS) section", "The operating expenses section", "The revenue section"],
+    "correct_answer": "The cost of goods sold (COGS) section"
+  },
+  {
+    "question": "Where on the P&L statement would you find out how much money a company spent on things like rent, salaries, and advertising?",
+    "options": ["The revenue section", "The cost of goods sold (COGS) section", "The operating expenses section", "The net income section"],
+    "correct_answer": "The operating expenses section"
+  },
+  {
+    "question": "If you want to know how much money a company made after all its expenses were paid, where would you look on the P&L statement?",
+    "options": ["The revenue section", "The gross profit section", "The operating income section", "The net income section"],
+    "correct_answer": "The net income section"
+  },
+  {
+    "question": "Imagine a lemonade stand. Where would you find the difference between the money you made from selling lemonade and the cost of lemons and sugar?",
+    "options": ["The total expenses section", "The gross profit section", "The operating expenses section", "The net income section"],
+    "correct_answer": "The gross profit section"
+  },
+  {
+    "question": "If a company reports 'other income' on its P&L statement, what does this usually mean?",
+    "options": ["Money made from selling its main products", "Money made from activities not directly related to its main business", "Money spent on employee salaries", "Money used to buy new equipment"],
+    "correct_answer": "Money made from activities not directly related to its main business"
+  },
+  {
+    "question": "What does a company's 'operating income' tell you?",
+    "options": ["How much money the company made from selling its assets", "How much money the company made from its core business operations", "How much money the company borrowed from the bank", "How much money the company paid in taxes"],
+    "correct_answer": "How much money the company made from its core business operations"
+  },
+  {
+    "question": "If a company reports a 'loss' on its P&L statement, what does this mean?",
+    "options": ["The company made more money than it spent", "The company spent more money than it made", "The company gave away its products for free", "The company only sold one product"],
+    "correct_answer": "The company spent more money than it made"
+  },
+  {
+    "question": "If you want to see how much money a company spent on research and development (R&D), where would you look on the P&L statement?",
+    "options": ["The revenue section", "The cost of goods sold (COGS) section", "The operating expenses section", "The net income section"],
+    "correct_answer": "The operating expenses section"
+  },
+  {
+    "question": "Imagine you're running a car wash. Where would you find the money you spent on soap and water on your 'car wash business report'?",
+    "options": ["The total revenue section", "The cost of goods sold (COGS) section", "The operating expenses section", "The net income section"],
+    "correct_answer": "The cost of goods sold (COGS) section"
+  },
+  {
+    "question": "What does ‘gross profit margin’ tell you about a company’s ability to control its production costs?",
+    "options": ["It shows how much debt a company has.", "It shows how efficiently a company manages its production costs.", "It shows how much a company spends on marketing.", "It shows how much a company pays in taxes."],
+    "correct_answer": "It shows how efficiently a company manages its production costs."
+  },
+  {
+    "question": "If you see ‘depreciation expense’ on a P&L statement, what does it mean?",
+    "options": ["Money spent on employee bonuses.", "The decrease in value of a company’s assets over time.", "Money earned from selling old equipment.", "Money used to buy new inventory."],
+    "correct_answer": "The decrease in value of a company’s assets over time."
+  },
+  {
+    "question": "Why is ‘interest expense’ shown on a P&L statement?",
+    "options": ["To show how much money a company spent on advertising.", "To show how much money a company paid on its loans.", "To show how much money a company earned from investments.", "To show how much money a company paid in rent."],
+    "correct_answer": "To show how much money a company paid on its loans."
+  },
+  {
+    "question": "What does ‘earnings per share’ (EPS) tell you about a company’s profitability?",
+    "options": ["How much money a company spent on its employees.", "How much profit a company made for each share of its stock.", "How much money a company borrowed from the bank.", "How much money a company invested in new technology."],
+    "correct_answer": "How much profit a company made for each share of its stock."
+  },
+  {
+    "question": "If a company’s ‘operating expenses’ are increasing faster than its ‘revenue,’ what does this likely mean?",
+    "options": ["The company is becoming more profitable.", "The company is becoming less efficient.", "The company is paying down its debt.", "The company is expanding its operations."],
+    "correct_answer": "The company is becoming less efficient."
+  },
+  {
+    "question": "Imagine you're organizing your toy collection. Where on your 'toy collection report' would you list all the toys you own?",
+    "options": ["The 'money spent' section", "The 'assets' section", "The 'friends who borrowed toys' section", "The 'future toy wish list' section"],
+    "correct_answer": "The 'assets' section"
+  },
+  {
+    "question": "If you borrowed money from a friend to buy a new game, where would you list that on your 'personal finance report'?",
+    "options": ["The 'assets' section", "The 'liabilities' section", "The 'earnings' section", "The 'favorite games' section"],
+    "correct_answer": "The 'liabilities' section"
+  },
+  {
+    "question": "Imagine you have a piggy bank with some savings. Where would you list the total amount of money in your piggy bank on your 'personal savings report'?",
+    "options": ["The 'liabilities' section", "The 'assets' section", "The 'expenses' section", "The 'future savings goals' section"],
+    "correct_answer": "The 'assets' section"
+  },
+  {
+    "question": "If a company owns a building, a truck, and some computers, where would these things be listed on the balance sheet?",
+    "options": ["Under 'liabilities'", "Under 'assets'", "Under 'expenses'", "Under 'revenue'"],
+    "correct_answer": "Under 'assets'"
+  },
+  {
+    "question": "If a company owes money to a bank for a loan, where would this be listed on the balance sheet?",
+    "options": ["Under 'assets'", "Under 'liabilities'", "Under 'equity'", "Under 'revenue'"],
+    "correct_answer": "Under 'liabilities'"
+  },
+  {
+    "question": "Imagine you're running a lemonade stand. If you have leftover lemons and sugar, where would you list them on your 'lemonade stand report'?",
+    "options": ["Under 'liabilities'", "Under 'assets' (inventory)", "Under 'expenses'", "Under 'revenue'"],
+    "correct_answer": "Under 'assets' (inventory)"
+  },
+  {
+    "question": "What does the 'equity' section of a balance sheet represent?",
+    "options": ["The money the company owes to others", "The money the owners have invested in the company", "The money the company made from sales", "The money the company spent on expenses"],
+    "correct_answer": "The money the owners have invested in the company"
+  },
+  {
+    "question": "If a company has a lot of 'cash' listed as an asset, what does this mean?",
+    "options": ["The company owes a lot of money", "The company has a lot of money available", "The company spent a lot of money", "The company lost a lot of money"],
+    "correct_answer": "The company has a lot of money available"
+  },
+  {
+    "question": "Imagine your friend borrowed your bicycle. Where would you list this on your 'personal belongings report'?",
+    "options": ["Under 'liabilities'", "Under 'assets' (accounts receivable)", "Under 'expenses'", "Under 'revenue'"],
+    "correct_answer": "Under 'assets' (accounts receivable)"
+  },
+  {
+    "question": "If a company has 'accounts payable' listed as a liability, what does this mean?",
+    "options": ["Money owed to the company by its customers", "Money the company owes to its suppliers", "Money the company made from sales", "Money the company spent on advertising"],
+    "correct_answer": "Money the company owes to its suppliers"
+  },
+  {
+    "question": "What does ‘current assets’ mean on a balance sheet?",
+    "options": ["Assets that a company plans to sell in the distant future.", "Assets that a company can convert into cash within one year.", "Assets that a company uses for long-term investments.", "Assets that a company has already sold."],
+    "correct_answer": "Assets that a company can convert into cash within one year."
+  },
+  {
+    "question": "If you see ‘long-term debt’ listed under liabilities, what does this tell you?",
+    "options": ["The company owes money to its customers.", "The company has loans that are due in more than one year.", "The company has paid off all its loans.", "The company is investing in new equipment."],
+    "correct_answer": "The company has loans that are due in more than one year."
+  },
+  {
+    "question": "What does ‘retained earnings’ represent in the equity section of a balance sheet?",
+    "options": ["The money the company paid out as dividends.", "The accumulated profits that a company has reinvested in the business.", "The money the company borrowed from banks.", "The money the company spent on operating expenses."],
+    "correct_answer": "The accumulated profits that a company has reinvested in the business."
+  },
+  {
+    "question": "Why is it important for a balance sheet to ‘balance’ (assets = liabilities + equity)?",
+    "options": ["To make the report look nicer.", "To show that the company’s financial records are accurate and complete.", "To show how many employees the company has.", "To show how many products the company sells."],
+    "correct_answer": "To show that the company’s financial records are accurate and complete."
+  },
+  {
+    "question": "If a company lists ‘inventory’ as an asset, what does this mean?",
+    "options": ["The company has sold all its products.", "The company has products that are ready to be sold.", "The company has no products left.", "The company is buying new equipment."],
+    "correct_answer": "The company has products that are ready to be sold."
+  },
+  {
+    "question": "Imagine you're running a lemonade stand. If you borrowed money from a friend to buy lemons, where would you list this on your 'lemonade stand report'?",
+    "options": ["Under 'liabilities'", "Under 'assets' (inventory)", "Under 'expenses'", "Under 'revenue'"],
+    "correct_answer": "Under 'liabilities'"
+  },
+  {
+    "question": "If a company has a lot of 'accounts receivable' listed as an asset, what does this mean?",
+    "options": ["The company has a lot of money available", "The company owes a lot of money", "The company has sold a lot of products on credit", "The company has no customers"],
+    "correct_answer": "The company has sold a lot of products on credit"
+  },
+  {
+    "question": "What does ‘goodwill’ represent on a balance sheet?",
+    "options": ["The company’s reputation", "The company’s marketing budget", "The company’s employee benefits", "The company’s office locations"],
+    "correct_answer": "The company’s reputation"
+  },
+  {
+    "question": "If a company has a lot of ‘property, plant, and equipment’ listed as assets, what does this mean?",
+    "options": ["The company has a lot of cash available", "The company has a lot of physical assets like buildings and machinery", "The company has a lot of debt", "The company has a lot of inventory"],
+    "correct_answer": "The company has a lot of physical assets like buildings and machinery"
+  },
+  {
+    "question": "What does ‘intangible assets’ represent on a balance sheet?",
+    "options": ["Physical assets like buildings and machinery", "Assets that have no physical form, like patents and trademarks", "The company’s marketing budget", "The company’s employee benefits"],
+    "correct_answer": "Assets that have no physical form, like patents and trademarks"
+  },
+  {
+    "question": "If a company has a lot of ‘cash’ listed as an asset, what does this mean?",
+    "options": ["The company owes a lot of money", "The company has a lot of money available", "The company spent a lot of money", "The company lost a lot of money"],
+    "correct_answer": "The company has a lot of money available"
+  },
+  {
+    "question": "Imagine you're tracking the money coming in and out of your lemonade stand. Where would you write down the money you got from selling lemonade?",
+    "options": ["The 'expenses' section", "The 'cash inflows' section", "The 'assets' section", "The 'liabilities' section"],
+    "correct_answer": "The 'cash inflows' section"
+  },
+  {
+    "question": "If you bought new lemons and sugar for your lemonade stand, where would you write that down?",
+    "options": ["The 'cash inflows' section", "The 'cash outflows' section", "The 'profits' section", "The 'inventory' section"],
+    "correct_answer": "The 'cash outflows' section"
+  },
+  {
+    "question": "Imagine you're tracking where all your allowance money goes. What report would help you see how much money you got and spent?",
+    "options": ["The balance sheet", "The statement of cash flows", "The income statement", "The expense report"],
+    "correct_answer": "The statement of cash flows"
+  },
+  {
+    "question": "If a company sells its old delivery truck for cash, where would this be listed on the statement of cash flows?",
+    "options": ["Operating activities", "Investing activities", "Financing activities", "Expense activities"],
+    "correct_answer": "Investing activities"
+  },
+  {
+    "question": "If a company takes out a loan from a bank, where would this be listed on the statement of cash flows?",
+    "options": ["Operating activities", "Investing activities", "Financing activities", "Revenue activities"],
+    "correct_answer": "Financing activities"
+  },
+  {
+    "question": "Imagine you're tracking the money flowing in and out of your pet-sitting business. If you receive money from a customer for watching their dog, where would you record this?",
+    "options": ["Under 'expenses'", "Under 'operating activities'", "Under 'investing activities'", "Under 'financing activities'"],
+    "correct_answer": "Under 'operating activities'"
+  },
+  {
+    "question": "What does 'cash flow from operating activities' tell you about a company?",
+    "options": ["How much money the company borrowed", "How much money the company made from its core business operations", "How much money the company spent on new equipment", "How much money the company paid to its shareholders"],
+    "correct_answer": "How much money the company made from its core business operations"
+  },
+  {
+    "question": "If a company buys new computers for its office, where would this be listed on the statement of cash flows?",
+    "options": ["Operating activities", "Investing activities", "Financing activities", "Revenue activities"],
+    "correct_answer": "Investing activities"
+  },
+  {
+    "question": "Imagine you're saving money to buy a new bicycle. If you put money into your savings account, where would you record this?",
+    "options": ["Under 'expenses'", "Under 'investing activities' (if you consider savings an investment)", "Under 'operating activities'", "Under 'financing activities'"],
+    "correct_answer": "Under 'investing activities' (if you consider savings an investment)"
+  },
+  {
+    "question": "If a company pays dividends to its shareholders, where would this be listed on the statement of cash flows?",
+    "options": ["Operating activities", "Investing activities", "Financing activities", "Revenue activities"],
+    "correct_answer": "Financing activities"
+  },
+  {
+    "question": "What does ‘cash flow from financing activities’ generally show?",
+    "options": ["How much cash a company generated from sales.", "How much cash a company used to buy assets.", "How much cash a company raised or repaid from debt and equity.", "How much cash a company spent on operating expenses."],
+    "correct_answer": "How much cash a company raised or repaid from debt and equity."
+  },
+  {
+    "question": "Why is it important to look at a company’s ‘cash flow from operating activities’?",
+    "options": ["To see how much debt the company has.", "To see if the company is generating enough cash from its business to survive.", "To see how much the company spends on advertising.", "To see how many employees the company has."],
+    "correct_answer": "To see if the company is generating enough cash from its business to survive."
+  },
+  {
+    "question": "If a company receives cash from selling its old equipment, which section of the statement of cash flows would this appear in?",
+    "options": ["Operating activities.", "Investing activities.", "Financing activities.", "Expense activities."],
+    "correct_answer": "Investing activities."
+  },
+  {
+    "question": "What does ‘net change in cash’ at the bottom of a cash flow statement tell you?",
+    "options": ["How much profit the company made.", "How much the company’s cash balance increased or decreased during the period.", "How much debt the company has.", "How much the company spent on salaries."],
+    "correct_answer": "How much the company’s cash balance increased or decreased during the period."
+  },
+  {
+    "question": "If a company issues new shares of stock for cash, where would this be recorded?",
+    "options": ["Operating activities.", "Investing activities.", "Financing activities.", "Expense activities."],
+    "correct_answer": "Financing activities."
+  }
+]
