@@ -2,6 +2,12 @@ import streamlit as st
 import random
 import json
 
+st.set_page_config(
+    page_title="Stock Market Fundametals Quiz",
+    page_icon="📈",
+    layout="wide",
+)
+
 def load_questions_from_json(filepath):
     try:
         with open(filepath, "r") as f:
